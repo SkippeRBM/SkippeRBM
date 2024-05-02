@@ -3,9 +3,10 @@
 <h3> &nbsp;Sobre mim </h3>
 
   `Ja trabalhei como designer gráfico e web, aprimorando minhas habilidades de criação de marcas e produtos internos para empresas, landing pages wordpress, sites e loja. Recentemente fiz uma transição em minha carreira para ciência de dados e tenho trabalhado como freelancer nos últimos 7 meses. Minhas especialidades incluem Python, SQL Oracle, Excel, Power BI e tenho Inglês intermediário.`
-
+  
+  <a href="https://github.com/SkippeRBM](https://github.com/SkippeRBM/Estudando-com-Livros)"> Autor do repositório, **Estudando com Livros**</a>
 - ‍ &nbsp; Explorando novas tecnologias e desenvolvendo soluções em Ciência de Dados.
--  &nbsp; Cursando **Superior de tecnologia em ciência de dados** na <a href="https://www.linkedin.com/in/ramonbarbozam/">Universidade Positivo</a>.
+-  &nbsp; Cursando **Superior de tecnologia em Ciência de Dados** na <a href="https://www.linkedin.com/in/ramonbarbozam/">Universidade Positivo</a>.
 -  &nbsp; Trabalhando como **Web Design WordPress e Design de Marca** freelancer.
 -  &nbsp; Aprendendo mais sobre **Estatística | Algoritmos | Programação | Banco de Dados | Inteligência Artificial **.
 
