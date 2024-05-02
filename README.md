@@ -43,10 +43,6 @@
 [![Kaggle]( https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ramonethos)
 [![GitHub Ramon B.](https://img.shields.io/github/followers/richardcpereira?label=follow&style=social)](https://github.com/SkippeRBM)
 
-**Sistema Operacional**  
-  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 **Outros Interesses**
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
