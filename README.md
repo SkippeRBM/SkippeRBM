@@ -4,7 +4,7 @@
 
   `Ja trabalhei como designer gráfico e web, aprimorando minhas habilidades de criação de marcas e produtos internos para empresas, landing pages wordpress, sites e loja. Recentemente fiz uma transição em minha carreira para ciência de dados e tenho trabalhado como freelancer nos últimos 7 meses. Minhas especialidades incluem Python, SQL Oracle, Excel, Power BI e tenho Inglês intermediário.`
   
-  Autor do repositório, <a href="https://github.com/SkippeRBM](https://github.com/SkippeRBM/Estudando-com-Livros)">**Estudando com Livros**</a>
+  Autor do repositório, <a href="[https://github.com/SkippeRBM/Estudando-com-Livros]">**Estudando com Livros**</a>
 - ‍ &nbsp; Explorando novas tecnologias e desenvolvendo soluções em Ciência de Dados.
 -  &nbsp; Cursando **Superior de tecnologia em Ciência de Dados** na <a href="https://www.linkedin.com/in/ramonbarbozam/">Universidade Positivo</a>.
 -  &nbsp; Trabalhando como **Web Design WordPress e Design de Marca** freelancer.
@@ -44,6 +44,14 @@
 [![Kaggle]( https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ramonethos)
 [![GitHub Ramon B.](https://img.shields.io/github/followers/richardcpereira?label=follow&style=social)](https://github.com/SkippeRBM)
 
+<br/>
+
+<a href="https://github.com/SkippeRBM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkippeRBM&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
 **Outros Interesses**
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
@@ -52,11 +60,3 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/SkippeRBM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkippeRBM&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
