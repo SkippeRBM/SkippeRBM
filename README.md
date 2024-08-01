@@ -2,7 +2,7 @@
 
 <h3> &nbsp;Sobre mim </h3>
 
-  `Empreendo como brand e web designer pela` <a src="https://www.mementovxi.com/">MEMENTO</a>`, criando marcas, social meda e produtos internos para empresas, landing pages wordpress, sites e loja. Recentemente fiz uma transição em minha carreira para ciência de dados e tenho trabalhado como freelancer nos últimos 7 meses. Minhas especialidades incluem Python, SQL Oracle, Excel, Power BI e tenho Inglês intermediário.`
+  `Empreendo como brand e web designer pela` <a href="https://www.mementovxi.com/">MEMENTO</a>`, criando marcas, social meda e produtos internos para empresas, landing pages wordpress, sites e loja. Recentemente fiz uma transição em minha carreira para ciência de dados e tenho trabalhado como freelancer nos últimos 7 meses. Minhas especialidades incluem Python, SQL Oracle, Excel, Power BI e tenho Inglês intermediário.`
   
   Autor do repositório, <a href="https://github.com/SkippeRBM/Estudando-com-Livros">**Estudando com Livros**</a>
 - ‍ &nbsp; Explorando novas tecnologias e desenvolvendo soluções em Ciência de Dados.
